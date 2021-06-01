@@ -79,7 +79,24 @@
 
 ## Запись
 
-TODO
+Каждый из участников выпуска записывает свою дорожку. Это помогает сохранить максимальное качество для монтажа и оставляет простор для обработки, чтобы проще было прибрать шумы и эхо. Дорожку важно записать и сохранить в максимально высоком качестве, чтобы в результате получился файл WAV, AIFF или подобные — то есть без сжатия.
+
+### Windows
+
+На Windows есть следующие программы для записи:
+
+- [Audacity](https://www.audacityteam.org) — предпочтительно
+- [Windows Voice Recorder](https://www.microsoft.com/p/windows-voice-recorder/9wzdncrfhwkn) — тоже сойдёт
+
+### macOS
+
+В macOS встроен медиаплеер QuickTime, который умеет записывать звук.
+
+![File > New Audio Recording…](images/new-audio.jpg)
+
+Важно выбрать правильный источник звука и максимальное качество.
+
+![Microphone: Rode Podcaster v2, Quality: Maximum](images/max-quality.jpg)
 
 ## После
 
