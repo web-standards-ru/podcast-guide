@@ -74,7 +74,7 @@
 - [Audio-Technica ATR2100x](https://www.audio-technica.com/en-us/atr2100x-usb)
 - [Audio-Technica AT2005](https://www.audio-technica.com/en-us/microphones/wired/type/usb/at2005usb)
 - [Samson Q2U](http://www.samsontech.com/samson/products/microphones/usb-microphones/q2u/)
-- [Shure mv7](https://www.shure.com/en-US/products/microphones/mv7?variant=MV7-K)
+- [Shure MV7](https://www.shure.com/en-US/products/microphones/mv7?variant=MV7-K)
 
 Но и конденсаторный USB-микрофон лучше, чем гарнитура и тем более, чем встроенный микрофон.
 
